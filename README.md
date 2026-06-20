@@ -27,8 +27,8 @@ const akash = {
         language: ["Python"],
         tools: ["Git", "GitHub", "Postman", "Thunder Client"]
     },
-    currentlyLearning: ["TypeScript", "Docker", "Next.js"],
-    funFact: "I build full-stack apps AND practice Silambam (martial arts) 🥋",
+
+    funFact: "I build full-stack apps",
     motto: function () {
         return "Clean code today, scalable systems tomorrow.";
     }
