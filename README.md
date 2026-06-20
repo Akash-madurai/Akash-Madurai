@@ -179,11 +179,7 @@ console.log(akash.motto());
 
 ### 📚 Currently Learning
 
-```
-🧱 TypeScript     → Type-safe React & Node apps
-🐳 Docker         → Containerizing MERN projects
-⚛️ Next.js        → Server-side rendering & full-stack React
-```
+
 
 <br/>
 
