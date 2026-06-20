@@ -177,7 +177,7 @@ console.log(akash.motto());
 
 <br/>
 
-### 📚 Currently Learning
+
 
 
 
